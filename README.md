@@ -36,7 +36,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
   <img align="center" alt="html5" src="https://img.shields.io/badge/pandas-314DAB?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/opencv-AB4331?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/selenium-0089D6?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <br>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/beautifulsoup-FFFFFF?style=for-the-badge"/>
  </div>
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
