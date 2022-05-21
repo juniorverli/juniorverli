@@ -2,6 +2,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniorverli/)
 
+![Dionei GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorverli&show_icons=true&theme=radical)
+
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=MICROSOFT-azure&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+ </div>
+
 <!--
 **juniorverli/juniorverli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
