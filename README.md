@@ -18,11 +18,13 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
 </br>
 <div style="display: inline_block">
+  <p>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/powerbi-FFD700?style=for-the-badge&logo=powerbi&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/jupyter-FFA500?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=MICROSOFT-azure&logoColor=white"/>
+  </p>
   <p>
   <img align="center" alt="html5" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=white"/>
