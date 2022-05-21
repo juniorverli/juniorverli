@@ -15,7 +15,6 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 📫 Fale comigo em **dionei.junior@outlook.com**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/juniorverli](https://www.linkedin.com/in/juniorverli)
 
-<details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
   <br/>
 <h3 align="left">Languages and Tools:</h3>
