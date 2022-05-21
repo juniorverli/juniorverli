@@ -17,7 +17,6 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
   <br/>
-
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/powerbi-FFD700?style=for-the-badge&logo=powerbi&logoColor=white"/>
@@ -27,14 +26,10 @@ Then i save result to [assets/github.gif](assets/github.gif)
   <img align="center" alt="html5" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
  </div>
 
-
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorverli&label=Profile%20views&color=0e75b6&style=flat" alt="juniorverli" /> </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorverli&show_icons=true&locale=en" alt="juniorverli" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juniorverli&" alt="juniorverli" /></p>
-
 
 </br>
 <h3 align="left">🔗 Entre em contato comigo:</h3>
