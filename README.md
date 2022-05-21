@@ -15,7 +15,8 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 📫 Fale comigo em **dionei.junior@outlook.com**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/juniorverli](https://www.linkedin.com/in/juniorverli)
 
-<summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
+<b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
+</br>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/powerbi-FFD700?style=for-the-badge&logo=powerbi&logoColor=white"/>
