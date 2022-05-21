@@ -19,24 +19,22 @@ Then i save result to [assets/github.gif](assets/github.gif)
 </br>
 <div style="display: inline_block">
   <p>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/powerbi-FFD700?style=for-the-badge&logo=powerbi&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/jupyter-FFA500?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=MICROSOFT-azure&logoColor=white"/>
   </p>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/pandas-314DAB?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/opencv-AB4331?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/selenium-0089D6?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/beautifulsoup-FFFFFF?style=for-the-badge"/>
   <p>
   <img align="center" alt="html5" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/mysql-0089D6?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/oracle-B22222?style=for-the-badge&logo=oracle&logoColor=white"/>
   </p>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/flutter-0089D6?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/pandas-314DAB?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/opencv-AB4331?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/selenium-0089D6?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/beautifulsoup-FFFFFF?style=for-the-badge"/>
  </div>
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
