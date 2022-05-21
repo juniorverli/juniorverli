@@ -14,7 +14,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, analytics e etc - ficarei feliz em ajudar :)**
 - 📫 Fale comigo em **dionei.junior@outlook.com**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/juniorverli](https://www.linkedin.com/in/juniorverli)
-</br>
+
 <b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
 </br>
 <div style="display: inline_block">
