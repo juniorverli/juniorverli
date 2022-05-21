@@ -24,8 +24,9 @@ Then i save result to [assets/github.gif](assets/github.gif)
   <img align="center" alt="html5" src="https://img.shields.io/badge/jupyter-FFA500?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=MICROSOFT-azure&logoColor=white"/>
   <br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/mysql-0089D6?style=for-the-badge&logo=mysql&logoColor=white"/>
  </div>
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
