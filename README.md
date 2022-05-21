@@ -13,7 +13,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, analytics e etc - ficarei feliz em ajudar :)**
 - 📫 Fale comigo em **dionei.junior@outlook.com**
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/juniorverli](https://www.linkedin.com/in/juniorverli)
+- 📄 Saiba mais sobre mim em [**https://www.linkedin.com/in/juniorverli**](https://www.linkedin.com/in/juniorverli)
 
 <b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
 </br>
