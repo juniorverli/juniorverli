@@ -1,4 +1,4 @@
-### Olá! Eu sou o Dionei Junior 👋
+### Olá 👋! Eu sou o Dionei 
 
 <!--
 How to make the bio gif ?
