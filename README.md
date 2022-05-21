@@ -4,6 +4,8 @@
 
 ![Dionei GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorverli&show_icons=true&theme=default)
 
+
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -16,7 +18,7 @@
  </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorverli&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorverli&layout=compact)
 <!--
 **juniorverli/juniorverli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
