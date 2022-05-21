@@ -15,6 +15,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/jupyter-FFA500?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=MICROSOFT-azure&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/docker-314DAB?style=for-the-badge&logo=docker&logoColor=white"/>
   </p>
   <p>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
