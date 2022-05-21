@@ -1,14 +1,6 @@
-### Olá 👋! Eu sou o Dionei 
-
-<!--
-How to make the bio gif ?
-💜 Thanks to [matyo91](https://github.com/matyo91)
-
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
-Then i save result to [assets/github.gif](assets/github.gif)
--->
+<p align="center">
+  <img src="https://github.com/juniorverli/juniorverli/raw/main/assets/github-profile.gif" alt="Olá 👋! Eu sou o Dionei. Sou um cientista de dados 👨🏽‍🔬🚀 Prazer em te conhecer️! 😊">
+</p>
 
 - 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, analytics e etc - ficarei feliz em ajudar :)**
