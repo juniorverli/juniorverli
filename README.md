@@ -2,8 +2,8 @@
   <img src="https://github.com/juniorverli/juniorverli/raw/main/assets/github-profile.gif" alt="Olá 👋! Eu sou o Dionei. Sou um cientista de dados 👨🏽‍🔬🚀 Prazer em te conhecer️! 😊">
 </p>
 
-- 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
-- 💬 Me pergunte sobre **tecnologia, ciência de dados, analytics e etc - ficarei feliz em ajudar :)**
+- 👯 Eu procuro colaborar em **projetos de engenharia de dados**
+- 💬 Me pergunte sobre **tecnologia, engenharia de dados, analytics e etc - ficarei feliz em ajudar :)**
 - 📫 Fale comigo em **dionei.junior@outlook.com**
 - 📄 Saiba mais sobre mim em [**https://www.linkedin.com/in/juniorverli**](https://www.linkedin.com/in/juniorverli)
 
