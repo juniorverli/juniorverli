@@ -6,13 +6,13 @@ I'm a Data Engineer based in Joinville, Brazil, specializing in building scalabl
 
 ### 🔧 Tech Stack
 
-**Platforms & Tools**: `Databricks` `PySpark` `Apache Airflow` `dbt` `DuckDB` `Airbyte` `Trino` `Iceberg`
+**- Platforms & Tools**: `Databricks` `PySpark` `Apache Airflow` `dbt` `DuckDB` `Airbyte` `Trino` `Iceberg`
 
-**Languages**: `Python` `SQL` `Jinja` `Shell Script`
+**- Languages**: `Python` `SQL` `Jinja` `Shell Script`
 
-**Cloud & Infrastructure**: `AWS (S3, EC2, EKS)` `Docker` `Linux`
+**- Cloud & Infrastructure**: `AWS (S3, EC2, EKS)` `Docker` `Linux`
 
-**Databases**: `Databricks SQL` `PostgreSQL` `MySQL` `Oracle` `SQL Server` `Redshift`
+**- Databases**: `Databricks SQL` `PostgreSQL` `MySQL` `Oracle` `SQL Server` `Redshift`
 
 
 ### 🚀 Featured Projects
@@ -22,11 +22,11 @@ I'm a Data Engineer based in Joinville, Brazil, specializing in building scalabl
 
 ### 💼 What I Do
 
-- Build Medallion Architecture pipelines (Bronze → Silver → Gold) on Databricks
-- Orchestrate complex data workflows with Airflow and dbt
-- Implement data quality testing and governance frameworks
-- Design Reverse ETL processes for CRM enrichment
-- Optimize data processing costs with FinOps strategies
+- Build Medallion Architecture pipelines (Bronze → Silver → Gold) on Databricks or Trino.
+- Orchestrate complex data workflows with Airflow and dbt.
+- Implement data quality testing and governance frameworks.
+- Design Reverse ETL processes for CRM enrichment.
+- Optimize data processing costs with FinOps strategies.
 
 ### 📫 Let's Connect
 
