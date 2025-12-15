@@ -1,42 +1,38 @@
-# Hi there, I'm Dionei Junior! 👋
-## Data Engineer | Lakehouse & FinOps Specialist
+# Hi there, I'm Dionei Junior 👋
 
-[cite_start]I am a **Data Engineer** based in **Joinville, Brazil**[cite: 3], passionate about building scalable data platforms. [cite_start]I specialize in structuring **Lakehouse architectures** (AWS & Databricks) [cite: 5] [cite_start]and ensuring data reliability through robust orchestration and automated quality testing[cite: 7].
+## Data Engineer | Lakehouse Architecture Specialist
 
-[cite_start]My recent focus includes **FinOps**—optimizing cloud resources and costs using **dbt selectors** [cite: 6][cite_start]—and implementing data anonymization strategies (LGPD)[cite: 7].
+I'm a Data Engineer based in Joinville, Brazil, specializing in building scalable Lakehouse architectures and robust data pipelines. Currently working at Asaas, a fintech company, where I design and implement modern data solutions using Databricks, dbt, and AWS.
 
-### 🛠️ Tech Stack & Tools
+### 🔧 Tech Stack
 
-**Core Engineering & Orchestration**
-* [cite_start]**Languages:** Python (Advanced) [cite: 10][cite_start], SQL (Advanced) [cite: 10][cite_start], Jinja [cite: 10][cite_start], Shell Script [cite: 11]
-* [cite_start]**Orchestration:** Apache Airflow [cite: 9][cite_start], dbt (Core/Cloud) [cite: 9]
-* [cite_start]**Processing:** Apache Spark (PySpark) [cite: 9][cite_start], Trino[cite: 11], Hadoop, DuckDB
-* [cite_start]**Data Formats:** Apache Iceberg[cite: 11], Delta Lake
+**Platforms & Tools**  
+`Databricks` `PySpark` `Apache Airflow` `dbt` `DuckDB` `Airbyte` `Trino` `Iceberg`
+**Languages**  
+`Python` `SQL` `Jinja` `Shell Script`
+**Cloud & Infrastructure**  
+`AWS (S3, EC2, EKS)` `Docker` `Linux`
+**Databases**  
+`Databricks SQL` `PostgreSQL` `MySQL` `Oracle` `SQL Server` `Redshift`
 
-**Infrastructure & Cloud**
-* [cite_start]**Cloud Provider:** AWS (S3, EC2, EKS) [cite: 11]
-* [cite_start]**Containerization:** Docker [cite: 11]
-* [cite_start]**OS:** Linux [cite: 11]
-* [cite_start]**Governance:** Data Anonymization [cite: 13][cite_start], RLS/CLS Security, Cost Management (FinOps) [cite: 13]
+### 🚀 Featured Projects
 
-**Databases**
-* [cite_start]Databricks SQL, PostgreSQL, MySQL, SQL Server, Oracle, Amazon Redshift [cite: 12]
+- **[duckdb-tpcds-to-parquet](https://github.com/juniorverli/duckdb-tpcds-to-parquet)** - TPC-DS benchmark data generation using DuckDB and Parquet format
+- **[open-data-lakehouse](https://github.com/juniorverli/open-data-lakehouse)** - Open-source Lakehouse implementation with modern data stack best practices
+
+### 💼 What I Do
+
+- Build Medallion Architecture pipelines (Bronze → Silver → Gold) on Databricks
+- Orchestrate complex data workflows with Airflow and dbt
+- Implement data quality testing and governance frameworks
+- Design Reverse ETL processes for CRM enrichment
+- Optimize data processing costs with FinOps strategies
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/juniorverli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juniormverli@gmail.com)
 
 ---
 
-### 📊 GitHub Stats
-
-![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorverli&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorverli&layout=compact&theme=dracula)
-
----
-
-### 📫 Connect with me
-
-[<img align="left" alt="JuniorVerli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JuniorVerli | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-
-<br />
-
-[linkedin]: https://linkedin.com/in/juniorverli
-[email]: mailto:juniormverli@gmail.com
+*Building reliable, scalable, and cost-effective data solutions*
