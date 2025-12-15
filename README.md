@@ -7,9 +7,13 @@ I'm a Data Engineer based in Joinville, Brazil, specializing in building scalabl
 ### 🔧 Tech Stack
 
 **Platforms & Tools**: `Databricks` `PySpark` `Apache Airflow` `dbt` `DuckDB` `Airbyte` `Trino` `Iceberg`
+
 **Languages**: `Python` `SQL` `Jinja` `Shell Script`
+
 **Cloud & Infrastructure**: `AWS (S3, EC2, EKS)` `Docker` `Linux`
+
 **Databases**: `Databricks SQL` `PostgreSQL` `MySQL` `Oracle` `SQL Server` `Redshift`
+
 
 ### 🚀 Featured Projects
 
