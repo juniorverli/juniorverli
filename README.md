@@ -1,43 +1,42 @@
-<p align="center">
-  <img src="https://github.com/juniorverli/juniorverli/raw/main/assets/github-profile.gif" alt="Olá 👋! Eu sou o Dionei. Sou um cientista de dados 👨🏽‍🔬🚀 Prazer em te conhecer️! 😊">
-</p>
+# Hi there, I'm Dionei Junior! 👋
+## Data Engineer | Lakehouse & FinOps Specialist
 
-- 👯 Eu procuro colaborar em **projetos de engenharia de dados**
-- 💬 Me pergunte sobre **tecnologia, engenharia de dados, analytics e etc - ficarei feliz em ajudar :)**
-- 📫 Fale comigo em **dionei.junior@outlook.com**
-- 📄 Saiba mais sobre mim em [**https://www.linkedin.com/in/juniorverli**](https://www.linkedin.com/in/juniorverli)
+[cite_start]I am a **Data Engineer** based in **Joinville, Brazil**[cite: 3], passionate about building scalable data platforms. [cite_start]I specialize in structuring **Lakehouse architectures** (AWS & Databricks) [cite: 5] [cite_start]and ensuring data reliability through robust orchestration and automated quality testing[cite: 7].
 
-<b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
-</br>
-<div style="display: inline_block">
-  <p>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/powerbi-FFD700?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/jupyter-FFA500?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=MICROSOFT-azure&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/docker-314DAB?style=for-the-badge&logo=docker&logoColor=white"/>
-  </p>
-  <p>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/pandas-314DAB?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/opencv-AB4331?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/selenium-0089D6?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/beautifulsoup-FFFFFF?style=for-the-badge"/>
-  </p>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/mysql-0089D6?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/oracle-B22222?style=for-the-badge&logo=oracle&logoColor=white"/>
- </div>
+[cite_start]My recent focus includes **FinOps**—optimizing cloud resources and costs using **dbt selectors** [cite: 6][cite_start]—and implementing data anonymization strategies (LGPD)[cite: 7].
 
-<h3 align="left"> 📊 Métricas do Github: </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorverli&label=Profile%20views&color=0e75b6&style=flat" alt="juniorverli" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorverli&show_icons=true&locale=en" alt="juniorverli" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juniorverli&" alt="juniorverli" /></p>
+### 🛠️ Tech Stack & Tools
 
-</br>
-<h3 align="left">🔗 Entre em contato comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juniorverli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juniorverli" height="30" width="40" /></a>
-<a href="https://instagram.com/juniorverli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juniorverli" height="30" width="40" /></a>
-<p align="left"> <a href="https://twitter.com/verlokz" target="blank"><img src="https://img.shields.io/twitter/follow/verlokz?logo=twitter&style=for-the-badge" alt=verlokz" /></a> </p>
+**Core Engineering & Orchestration**
+* [cite_start]**Languages:** Python (Advanced) [cite: 10][cite_start], SQL (Advanced) [cite: 10][cite_start], Jinja [cite: 10][cite_start], Shell Script [cite: 11]
+* [cite_start]**Orchestration:** Apache Airflow [cite: 9][cite_start], dbt (Core/Cloud) [cite: 9]
+* [cite_start]**Processing:** Apache Spark (PySpark) [cite: 9][cite_start], Trino[cite: 11], Hadoop, DuckDB
+* [cite_start]**Data Formats:** Apache Iceberg[cite: 11], Delta Lake
+
+**Infrastructure & Cloud**
+* [cite_start]**Cloud Provider:** AWS (S3, EC2, EKS) [cite: 11]
+* [cite_start]**Containerization:** Docker [cite: 11]
+* [cite_start]**OS:** Linux [cite: 11]
+* [cite_start]**Governance:** Data Anonymization [cite: 13][cite_start], RLS/CLS Security, Cost Management (FinOps) [cite: 13]
+
+**Databases**
+* [cite_start]Databricks SQL, PostgreSQL, MySQL, SQL Server, Oracle, Amazon Redshift [cite: 12]
+
+---
+
+### 📊 GitHub Stats
+
+![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorverli&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorverli&layout=compact&theme=dracula)
+
+---
+
+### 📫 Connect with me
+
+[<img align="left" alt="JuniorVerli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JuniorVerli | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+<br />
+
+[linkedin]: https://linkedin.com/in/juniorverli
+[email]: mailto:juniormverli@gmail.com
